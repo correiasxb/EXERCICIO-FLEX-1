@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    
+    
+}
+
+header{
+    background-color: #FA8072;
+    height: 350px;
+    text-align: center;
+   
+}
+
+main{
+    background-color: #E9967A;
+    height: 350px;
+    text-align: center;
+}
+
+footer{
+    background-color: #FFA074;
+    height: 350px;
+    text-align: center;
+}
